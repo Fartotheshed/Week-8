@@ -39,4 +39,9 @@ GIF Walkthrough:
 ![red1](https://user-images.githubusercontent.com/23129522/48169569-bd761c80-e2c1-11e8-8d53-94a6b651201a.gif)
 Vulnerability #2:Cross-Site Request Forgery
 GIF Walkthrough:
+![red2](https://user-images.githubusercontent.com/23129522/48169668-28bfee80-e2c2-11e8-89d7-97f681568a91.gif)
+
+## Notes
+
+One trouble I had was knowing where to write the code
 
