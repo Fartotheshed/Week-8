@@ -31,3 +31,9 @@ GIF Walkthrough:
 Vulnerability #2:User Enumeration
 GIF Walkthrough:
 ![green2](https://user-images.githubusercontent.com/23129522/48169370-0d081880-e2c1-11e8-85df-fae436eb1c76.gif)
+
+## Red
+
+Vulnerability #1:Insecure Direct Object Referencing
+GIF Walkthrough:
+
