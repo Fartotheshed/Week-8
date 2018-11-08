@@ -20,6 +20,7 @@ Vulnerability #1:SQL Injection
 GIF Walkthrough:
 ![blue1](https://user-images.githubusercontent.com/23129522/48169142-04631280-e2c0-11e8-8c31-370c6cbb1575.gif)
 Typed in some SQl in the url for each site, but in the blue site it shows that the database fails.
+
 Vulnerability #2:Session Hijacking/Fixation
 GIF Walkthrough:
 ![blue2](https://user-images.githubusercontent.com/23129522/48169210-5c017e00-e2c0-11e8-9241-af1393962b22.gif)
