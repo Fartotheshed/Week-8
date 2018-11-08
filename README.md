@@ -32,6 +32,7 @@ Vulnerability #1:Cross-Site Scripting
 GIF Walkthrough:
 ![green1](https://user-images.githubusercontent.com/23129522/48169314-c9adaa00-e2c0-11e8-8bb3-c22a8999c426.gif)
 Typed in some javascript where we could post feedbacks. In the green site it shows the vulnerability.
+
 Vulnerability #2:User Enumeration
 GIF Walkthrough:
 ![green2](https://user-images.githubusercontent.com/23129522/48169370-0d081880-e2c1-11e8-85df-fae436eb1c76.gif)
@@ -43,6 +44,7 @@ Vulnerability #1:Insecure Direct Object Referencing
 GIF Walkthrough:
 ![red1](https://user-images.githubusercontent.com/23129522/48169569-bd761c80-e2c1-11e8-8d53-94a6b651201a.gif)
 Changed the id of each url for each site. In the red site the vulnerability shows if the id is greater than 9.
+
 Vulnerability #2:Cross-Site Request Forgery
 GIF Walkthrough:
 ![red2](https://user-images.githubusercontent.com/23129522/48169668-28bfee80-e2c2-11e8-89d7-97f681568a91.gif)
