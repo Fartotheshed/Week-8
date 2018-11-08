@@ -17,3 +17,5 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1:SQL Injection
+![blue1](https://user-images.githubusercontent.com/23129522/48169142-04631280-e2c0-11e8-8c31-370c6cbb1575.gif)
+Vulnerability #2:Session Hijacking/Fixation
